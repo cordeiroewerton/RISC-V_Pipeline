@@ -1,0 +1,1 @@
+xrun Sprint_3/RegisterFile.sv Sprint_4/ULA.sv Sprint_5/Control_Unit.sv Sprint_5/Inst_mem.sv Sprint_5/PC.sv CPU-0.1/CPU-0.1.sv CPU-0.1/CPU_tb.sv -gui -access +rcw
